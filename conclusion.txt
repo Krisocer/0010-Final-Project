@@ -1,0 +1,10 @@
+Li got three target neighborhoods in Pittsburgh: Clairton, West Mifflin and Parkway East (Near Road). 
+However, Harrison got Squirrel Hill South as the best result with Squirrel Hill North coming close at rank 5. 
+We attempted to find an area that matched but both metrics provided completely different results. 
+However, this is what we were expecting because we started from completely different metrics. 
+However, from the two metrics (datasets) we worked with, we were able to notice that the neighborhoods on the eastern side of Pittsburgh tended to be better in both data sets overall. 
+We found that the neighborhood that averaged the highest ranking between the 2 datasets was Squirrel Hill South. From this final project, we were able to learn and gain a lot of experience. 
+We actually got to apply what we learned with Pandas and used features such as GeoPandas for making graphs. 
+Overall, we worked and communicated well as a team and we’re glad we got to share this experience with each other.
+
+ 
